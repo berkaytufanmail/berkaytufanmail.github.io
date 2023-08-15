@@ -47,15 +47,15 @@ http://live.net1.cyou:8080/live/subesef3/izmit414134/219325.ts
 http://live.net1.cyou:8080/live/subesef3/izmit414134/219326.ts
 #EXTINF:0 tvg-id="ext" group-title="spor",TRS ✦ SPORTS TV FHD
 http://live.net1.cyou:8080/live/subesef3/izmit414134/219327.ts
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+1 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.1.png" group-title="TR ✦ S SPORT",TR: S Sport+1 MAC SAATİ AKTİF
+#EXTINF:0 tvg-id="ext" tvg-name="TR: S Sport+1 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.1.png" group-title="TR ✦ S SPORT",TR: S Sport+1 MAC SAATİ AKTİF
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6405.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+2 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.2.png" group-title="TR ✦ S SPORT",TR: S Sport+2 MAC SAATİ AKTİF
+#EXTINF:0 tvg-id="ext" tvg-name="TR: S Sport+2 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.2.png" group-title="TR ✦ S SPORT",TR: S Sport+2 MAC SAATİ AKTİF
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6406.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+3 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.3.png" group-title="TR ✦ S SPORT",TR: S Sport+3 MAC SAATİ AKTİF
+#EXTINF:0 tvg-id="ext" tvg-name="TR: S Sport+3 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.3.png" group-title="TR ✦ S SPORT",TR: S Sport+3 MAC SAATİ AKTİF
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6407.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport+4 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.4.png" group-title="TR ✦ S SPORT",TR: S Sport+4 MAC SAATİ AKTİF
+#EXTINF:0 tvg-id="ext" tvg-name="TR: S Sport+4 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.4.png" group-title="TR ✦ S SPORT",TR: S Sport+4 MAC SAATİ AKTİF
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6408.m3u
-#EXTINF:-1 tvg-id="" tvg-name="TR: S SPORT+5 MAC SAATİ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.5.png" group-title="TR ✦ S SPORT",TR: S SPORT+5 MAC SAATİ
+#EXTINF:0 tvg-id="ext" tvg-name="TR: S SPORT+5 MAC SAATİ" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.5.png" group-title="TR ✦ S SPORT",TR: S SPORT+5 MAC SAATİ
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6409.m3u
 #EXTINF:0 tvg-id="ext" group-title="dovus",TRS ✦ KICKBOKS
 http://live.net1.cyou:8080/live/subesef3/izmit414134/219328.ts
