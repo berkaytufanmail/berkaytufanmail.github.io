@@ -47,6 +47,18 @@ http://live.net1.cyou:8080/live/subesef3/izmit414134/219325.ts
 http://live.net1.cyou:8080/live/subesef3/izmit414134/219326.ts
 #EXTINF:0 tvg-id="ext" group-title="spor",TRS ✦ SPORTS TV FHD
 http://live.net1.cyou:8080/live/subesef3/izmit414134/219327.ts
+#EXTINF:-1 group-title="spor",TR:S SPORT PLUS 1 HD ( MATCH TIME )
+http://live.net1.cyou:8080/live/subesef3/izmit414134/231217.ts
+#EXTINF:-1 group-title="spor",TR:S SPORT PLUS 2 HD ( MATCH TIME )
+http://live.net1.cyou:8080/live/subesef3/izmit414134/231218.ts
+#EXTINF:-1 group-title="spor",TR:S SPORT PLUS 3 HD ( MATCH TIME )
+http://live.net1.cyou:8080/live/subesef3/izmit414134/231219.ts
+#EXTINF:-1 group-title="spor",TR:S SPORT PLUS 4 HD ( MATCH TIME )
+http://live.net1.cyou:8080/live/subesef3/izmit414134/231220.ts
+#EXTINF:-1 group-title="spor",TR:S SPORT PLUS 5 HD ( MATCH TIME )
+http://live.net1.cyou:8080/live/subesef3/izmit414134/231221.ts
+#EXTINF:-1 group-title="spor",TR:S SPORT PLUS 6 HD ( MATCH TIME )
+http://live.net1.cyou:8080/live/subesef3/izmit414134/231222.ts
 #EXTINF:0 tvg-id="ext" tvg-name="TR: S Sport+1 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.1.png" group-title="TR ✦ S SPORT",TR: S Sport+1 MAC SAATİ AKTİF
 http://vip.thanktr.online:8080/live/Mesutabi/gwcRUeZtxu/6405.m3u
 #EXTINF:0 tvg-id="ext" tvg-name="TR: S Sport+2 MAC SAATİ AKTİF" tvg-logo="http://vip.nessatv.pro:8080/LOGO.YENI/TR/SPOR/S.SPORTS.PLUS.2.png" group-title="TR ✦ S SPORT",TR: S Sport+2 MAC SAATİ AKTİF
